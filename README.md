@@ -1,4 +1,4 @@
-# DWNO UnlockEggs
+# DWNO UnlockEvos
 This mod unlocks the Kuramon and DLC Eggs of the game right at the start of the game, without having to fullfill the requirements, as well as unlocking all the Story-locked evolutions thanks to Yashajin's PR.
 The code was not thoroughly tested and might cause issues. A backup of your savegame prior to attempting this mod is recommended.
 
