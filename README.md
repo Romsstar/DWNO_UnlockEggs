@@ -4,8 +4,8 @@ The code was not thoroughly tested and might cause issues. A backup of your save
 
 # Installation
 1. Install [BepInEx](https://github.com/BepInEx/BepInEx) ([Tutorial by Yasha-jin](https://github.com/Yasha-jin/DWNOModdingGuides/blob/main/Guides/HowToInstallBepInExForDWNO.md))
-2. Download the latest release from the [Releases Tab](https://github.com/Romsstar/DWNO_UnlockEggs/releases)
-3. Copy `DWNO_UnlockEggs.dll` into the `plugins` folder of BepinEx
+2. Download the latest release from the [Releases Tab](https://github.com/Romsstar/DWNO_UnlockEvos/releases)
+3. Copy `DWNO_UnlockEvos.dll` into the `plugins` folder of BepinEx
 4. Start the game and enjoy :)
 
 # Contact
